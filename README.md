@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Jonathan-Uloth
+- 👀 I’m interested in Webdeveloptment and Minecraft Plugins.
+- 🌱 I’m currently learning Java for the Minecraft Plugins.
